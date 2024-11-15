@@ -3,5 +3,6 @@
     "paths": {
       "@/*": ["./*"]
     }
-  }
+  },
+  "include": ["pages/**/*.js", "components/**/*.js"]
 }
